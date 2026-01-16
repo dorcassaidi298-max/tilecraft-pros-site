@@ -10,9 +10,9 @@
             "server": "localhost",
             "port": 3306,
             "driver": "MySQL",
-            "name": "TileCraft",
-            "group": "TileCraft_C_M",
-            "database": "db2528",
+            "name": "root",
+            "group": "root1",
+            "database": "db123",
             "username": "admin"
         }
     ]
